@@ -1,4 +1,4 @@
-# machine-learning-model-heavy-industrie
+# machine-learning-model-heavy-industry
 
 In this project, I prepared a prototype machine learning model for Zyfra, a company that develops efficiency solutions for the heavy industry.
 
